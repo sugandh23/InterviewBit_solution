@@ -1,1 +1,1 @@
-# InterviewBit_solution
+This Repository contains solution of InterviewBit questions.
